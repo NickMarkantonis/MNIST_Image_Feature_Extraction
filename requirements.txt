@@ -1,8 +1,4 @@
-# Minimal dependencies for MNIST feature extraction
 pandas>=1.3
 numpy>=1.21
 scikit-learn>=1.0
 opencv-python>=4.5
-
-# Optional: use opencv-python-headless for headless servers/environments
-# opencv-python-headless>=4.5
