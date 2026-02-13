@@ -21,7 +21,7 @@ Info based on the edges and their general orientation, we split them in 4 parts:
 4. diagonal edges (135°)
 
 ### Contours and Shape Features
-Hnsing Hough Tranforms we detect a bit more data on contours such as lines, circles etc.
+Using Hough Tranforms we detect a bit more data on contours such as lines, circles etc.
 
 ## Reflection
 This project jump started my experience and I will continue building on it and I hope I can achieve at least a accuracy of over 90% over the next few
